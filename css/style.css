@@ -1,0 +1,54 @@
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+
+}
+.navbar-brand {
+    background-color: rgb(3, 49, 65);
+    padding: 20px 20px;
+
+
+}
+.navbar-light .navbar-brand,
+.navbar-light .navbar-brand:hover{color:#fff;
+}
+
+main {
+    background-color:#CCC;
+
+}
+.content-box {background-color: #fff;
+              padding: 20px;
+}
+p.thick {
+    font-weight: bold;
+}
+body {
+    background-color: grey;
+}
+.card {
+    margin-top: 10px;
+}
+hr {
+    height: 10px;
+    border-top: 10px solid black;
+}
+footer {
+    text-align: center;
+    background-color:grey;
+    border-top: teal 5px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: smaller;
+
+}
+h2{
+    color: teal;
+    font-family: Verdana; Geneva, Tahoma, san-serif;
+    font-size: x-large;
+    padding: 0px;
+
+}
+.wrapper{
+    background-color: lightgray;
+}
